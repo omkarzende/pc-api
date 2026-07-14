@@ -9,6 +9,7 @@
   { "name": "16GB DDR5-5200", "price": 80, "category": "RAM" },
   { "name": "2TB NVMe SSD", "price": 140, "category": "Storage" },
   { "name": "1TB NVMe SSD", "price": 80, "category": "Storage" },
+   { "name": "150W Stone PSU", "price": 120, "category": "PSU", "wattage": 150 },
   { "name": "850W Gold PSU", "price": 120, "category": "PSU", "wattage": 850 },
   { "name": "1000W Platinum PSU", "price": 200, "category": "PSU", "wattage": 1000 },
   { "name": "Z790 Motherboard", "price": 250, "category": "Motherboard", "socket": "LGA1700" },
