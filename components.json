@@ -2,8 +2,6 @@
   { "name": "Intel Core i9-13900K", "price": 589, "category": "CPU", "wattage": 253, "socket": "LGA1700" },
   { "name": "AMD Ryzen 9 7950X", "price": 549, "category": "CPU", "wattage": 170, "socket": "AM5" },
   { "name": "Intel Core i7-13700K", "price": 409, "category": "CPU", "wattage": 253, "socket": "LGA1700" },
-  { "name": "AMD Ryzen 7 5650X", "price": 249, "category": "CPU", "wattage": 170, "socket": "AM5" },
-  { "name": "NVIDIA RTX 9090", "price": 9999, "category": "GPU", "wattage": 999 },
   { "name": "NVIDIA RTX 4090", "price": 1599, "category": "GPU", "wattage": 450 },
   { "name": "NVIDIA RTX 4080", "price": 1199, "category": "GPU", "wattage": 320 },
   { "name": "AMD RX 7900 XTX", "price": 999, "category": "GPU", "wattage": 355 },
