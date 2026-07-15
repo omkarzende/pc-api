@@ -16,6 +16,6 @@
   { "name": "1000W Platinum PSU", "price": 200, "category": "PSU", "wattage": 1000 },
   { "name": "Z790 Motherboard", "price": 250, "category": "Motherboard", "socket": "LGA1700" },
   { "name": "Z490 Motherboard", "price": 200, "category": "Motherboard", "socket": "LGA1700" },
-  { "name": "X670 Motherboard", "price": 280, "category": "Motherboard", "socket": "AM5" }
-  { "name": "X470 Motherboard", "price": 180, "category": "Motherboard", "socket": "AM5" }
+  { "name": "X670 Motherboard", "price": 280, "category": "Motherboard", "socket": "AM5" },
+  { "name": "X470 Motherboard", "price": 180, "category": "Motherboard", "socket": "AM5" },
 ]
